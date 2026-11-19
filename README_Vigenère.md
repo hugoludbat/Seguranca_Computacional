@@ -6,7 +6,6 @@ Trabalho de Implementação 1 da disciplina de Segurança Computacional (CIC0201
 * Henrique Marques Romeiro França (242039130)
 * Lucas Silva Carneiro (211026655)
 * Hugo Ludwig Ramos Batista (190014415)
-* Luiz Augusto Araujo da Silva (211036105)
 
 ## Objetivo
 Este projeto implementa a cifra de Vigenère, com funcionalidades de cifração e decifração de textos, além de um sistema de criptoanálise capaz de quebrar criptogramas utilizando métodos estatísticos (Índice de Coincidência e Teste de Qui-quadrado) baseados na frequência de letras nos idiomas Português e Inglês.
