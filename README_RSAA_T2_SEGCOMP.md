@@ -5,7 +5,6 @@
 * **Henrique Marques Romeiro França** (Matrícula: 242039130)
 * **Lucas Silva Carneiro** (Matrícula: 211026655)
 * **Hugo Ludwig Ramos Batista** (Matrícula: 190014415)
-* **Luiz Augusto Araujo da Silva** (Matrícula: 211036105)
 
 ---
 
